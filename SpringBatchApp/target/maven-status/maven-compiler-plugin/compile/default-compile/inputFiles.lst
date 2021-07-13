@@ -1,0 +1,7 @@
+/home/dchangmasa/Classwork/Java/BatchProcessing/SpringBatchApp/src/main/java/io/changsoft/batch/springbatchapp/config/SpringBatchConfig.java
+/home/dchangmasa/Classwork/Java/BatchProcessing/SpringBatchApp/src/main/java/io/changsoft/batch/springbatchapp/batch/DBWriter.java
+/home/dchangmasa/Classwork/Java/BatchProcessing/SpringBatchApp/src/main/java/io/changsoft/batch/springbatchapp/batch/Processor.java
+/home/dchangmasa/Classwork/Java/BatchProcessing/SpringBatchApp/src/main/java/io/changsoft/batch/springbatchapp/domain/User.java
+/home/dchangmasa/Classwork/Java/BatchProcessing/SpringBatchApp/src/main/java/io/changsoft/batch/springbatchapp/controller/BatchController.java
+/home/dchangmasa/Classwork/Java/BatchProcessing/SpringBatchApp/src/main/java/io/changsoft/batch/springbatchapp/SpringBatchAppApplication.java
+/home/dchangmasa/Classwork/Java/BatchProcessing/SpringBatchApp/src/main/java/io/changsoft/batch/springbatchapp/repository/UserRepository.java

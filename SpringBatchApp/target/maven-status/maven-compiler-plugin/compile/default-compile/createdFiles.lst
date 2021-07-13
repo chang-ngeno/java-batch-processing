@@ -1,0 +1,7 @@
+io/changsoft/batch/springbatchapp/controller/BatchController.class
+io/changsoft/batch/springbatchapp/batch/DBWriter.class
+io/changsoft/batch/springbatchapp/batch/Processor.class
+io/changsoft/batch/springbatchapp/repository/UserRepository.class
+io/changsoft/batch/springbatchapp/config/SpringBatchConfig.class
+io/changsoft/batch/springbatchapp/SpringBatchAppApplication.class
+io/changsoft/batch/springbatchapp/domain/User.class

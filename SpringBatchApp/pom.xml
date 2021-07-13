@@ -11,9 +11,9 @@
 	<groupId>io.changsoft.batch</groupId>
 	<artifactId>spring-batch-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringCSVBatchApp</name>
+	<name>SpringBatchApp</name>
 	<packaging>jar</packaging>
-	<description>Spring Batch processing appplication for demo</description>
+	<description>Spring Batch processing application for demo</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
@@ -79,7 +79,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>${project.name}</finalName>
+		<finalName>${project.name}:${project.version}</finalName>
 	</build>
 
 </project>
